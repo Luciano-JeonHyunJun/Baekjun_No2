@@ -18,8 +18,9 @@ elif a < b:
     print('<')
 else:
     print('==')
-</pre>
 </code>
+</pre>
+
 
 <strong>처음에는 a,b를 한번에 int의 입력값을 받으면서 리스트를 나눠두고 
 문제에서 시키는대로 a > b 일시에는 > 를 출력 이런식으로 코드를 작성합니다. </strong>
@@ -41,8 +42,9 @@ elif 70 > score >= 60:
     print('D')
 else:
     print('F') 
-</pre>
 </code>
+</pre>
+
 
 <strong>처음에는 score라는 variable 을 지정합니다. 그후에 score는 int로 입력값을 받는다고 선언을 한후 조건문을 작성합니다. <br>
   첫번째줄 코드는 "만약 score가 100보다 작거나 같고 , 90보다 크거나 같다면 A를 출력시켜주세요" 라는 코드입니다.
@@ -63,8 +65,9 @@ if (a % 4 == 0 and a % 100 != 0) or a % 400 == 0:
     print(1)
 else:
     print(0)
-</pre>
 </code>
+</pre>
+
 
 <strong>이 문제는 어려워서 해설을 추가해야할거 같습니다. 양해바랍니다.
   <a href="https://pacific-ocean.tistory.com/72">해설링크</a>
@@ -87,8 +90,9 @@ elif x < 0 and y < 0:
     print('3')
 else:
     print('4')
-</pre>
 </code>
+</pre>
+
 
 <strong>
 문제를 보셨다면 알겟지만 , 이런 문장이 있습니다.<br>
@@ -130,13 +134,14 @@ elif M < 45 and H > 0:
     print(H-1,M+15)
 else:
     print(23,M+15)
-</pre>
 </code>
+</pre>
+
 
 <strong> 이 문제 또한 너무 어려웠기에 검색자료 링크를 남깁니다 죄송합니다.
           <a href="https://yongku.tistory.com/entry/%EB%B0%B1%EC%A4%80-2884%EB%B2%88-%EC%95%8C%EB%9E%8C-%EC%8B%9C%EA%B3%84-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython">해설 링크</a>입니다. 감사합니다.
   
-# Baekjun_No2(ENG.Ver)
+ # Baekjun_No2(ENG.Ver)
 <h6>All translations inform you that Google Translator was used.</h6>
 This is a commit that solves the problem of the Baekjun online problem solving site.
 
@@ -157,8 +162,9 @@ elif a <b:
     print('<')
 else:
     print('==')
-</pre>
 </code>
+</pre>
+
 
 <strong>At first, a,b is divided into a list while receiving an input of an int at a time.
 Write the code in this way, as the problem tells you to output a> b at the time>. </strong>
@@ -180,8 +186,9 @@ elif 70> score >= 60:
     print('D')
 else:
     print('F')
-</pre>
 </code>
+</pre>
+
 
 <strong>In the beginning, we specify a variable called score. After that, declare that score receives an input value as an int, and write a conditional statement. <br>
   The first line of code is "If the score is less than or equal to 100 and greater than or equal to 90, print A."
@@ -202,8 +209,9 @@ if (a% 4 == 0 and a% 100 != 0) or a% 400 == 0:
     print(1)
 else:
     print(0)
-</pre>
 </code>
+</pre>
+
 
 <strong>This problem is difficult, so I think I'll have to add some commentary. please understand.
   <a href="https://pacific-ocean.tistory.com/72">Explanation link</a>
@@ -226,8 +234,9 @@ elif x <0 and y <0:
     print('3')
 else:
     print('4')
-</pre>
 </code>
+</pre>
+
 
 <strong>
 If you have seen the problem, you know, but there is a sentence like this.<br>
@@ -269,11 +278,14 @@ elif M <45 and H> 0:
     print(H-1,M+15)
 else:
     print(23,M+15)
-</pre>
 </code>
+</pre>
+
 
 <strong> This problem was also too difficult to leave a link to the search material Sorry.
           <a href="https://yongku.tistory.com/entry/%EB%B0%B1%EC%A4%80-2884%EB%B2%88-%EC%95%8C%EB%9E%8C -%EC%8B%9C%EA%B3%84-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython">Explanation link</a>. Thank you.
+  
+
   
  
   
